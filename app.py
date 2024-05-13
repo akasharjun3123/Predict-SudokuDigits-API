@@ -1,12 +1,7 @@
 from flask import Flask, request, app, jsonify, url_for, render_template, redirect
 import numpy as np
-import pandas as pd
-import pickle
 from mainProcess import *
 from flask_cors import CORS 
-
-
-
 
 app = Flask(__name__)
 
