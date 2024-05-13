@@ -2,7 +2,6 @@ import cv2 as cv2
 import numpy as np
 from functions import *
 import keras
-import pickle
 import matplotlib.pyplot as plt
 
 
